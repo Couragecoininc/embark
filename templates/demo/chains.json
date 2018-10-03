@@ -1,1 +1,22 @@
-{}
+{
+  "0x7d13b4ec022726938204d2e7b64e501b4e26ac8a0611166ceebb3bc0bb50b581": {
+    "contracts": {
+      "0xb84d125645e94e6329e6494db63830d1c68a719c328036dce55337f79a512e27": {
+        "name": "SimpleStorage",
+        "address": "0xDd9A88cc5E8C02a982809c9ADFe2155B89f7d9D7"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0x6168f6f6efe8A58513a0c8116eA604CdeD610861"
+      },
+      "0x7032d54443a31a9ec48b84b16d7986779db1cacdec1642d5d6ce4ba8b462f372": {
+        "name": "Resolver",
+        "address": "0xFab23CE80918a2712BF407205eB331f9D7Fe5949"
+      },
+      "0x5b4accd18030a0af6a150fa35284fc38391a572ba9e9c2a95d73dfeb844b1301": {
+        "name": "FIFSRegistrar",
+        "address": "0xE133f45694f97dDD3Deb70E788408B53dbe5eae4"
+      }
+    }
+  }
+}

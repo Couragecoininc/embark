@@ -419,7 +419,7 @@ class EmbarkController {
 
   ejectWebpack() {
     var fs = require('../lib/core/fs.js');
-    var embarkConfig = fs.embarkPath('lib/pipeline/webpack.config.js');
+    var embarkConfig = fs.embarkPath('lib/modules/pipeline/webpack.config.js');
     var dappConfig = fs.dappPath('webpack.config.js');
     fs.copyPreserve(embarkConfig, dappConfig);
     console.log(__('webpack config ejected to:').dim.yellow);
