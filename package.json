@@ -90,7 +90,7 @@
     "swarm-api": "0.1.2",
     "tar": "3.2.1",
     "toposort": "1.0.7",
-    "underscore": "1.9.1",
+    "underscore": "1.12.1",
     "url-loader": "0.6.2",
     "uuid": "3.3.2",
     "viz.js": "1.8.2",
