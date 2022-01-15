@@ -82,7 +82,7 @@
     "propose": "0.0.5",
     "request": "2.88.0",
     "serve-static": "1.13.2",
-    "shelljs": "0.5.3",
+    "shelljs": "0.8.5",
     "simples": "0.8.8",
     "solc": "0.4.25",
     "string-replace-async": "1.2.1",
